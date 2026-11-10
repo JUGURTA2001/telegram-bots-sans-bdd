@@ -1,0 +1,12 @@
+# Secrets : ne jamais publier le token !
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Éditeur
+.vscode/
+.idea/
